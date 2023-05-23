@@ -1,0 +1,42 @@
+# project name
+
+## 💻 프로젝트 소개
+
+NEAR Protocol 메인넷에서 SNS 로그인을 구현한 티켓 거래 플랫폼(Ticket Exchangers).
+
+## :calendar: 개발 기간
+
+- 23.05.19~23.05.21
+
+## 👋 멤버 구성 및 역할<>
+
+- KimCookieYa: 프론트엔드(Flutter) 개발
+- A: 프로젝트 기획 및 서버 개발
+- B: 디자인 및 기획
+
+## 🌏 개발 환경
+
+### Front-End
+
+- VS Code
+- Flutter(Dart)
+- 라이브러리: 
+
+### Back-End
+
+- Node.js
+
+### Smart Contract
+
+- Rust
+
+## 📱 UI
+
+### 로그인 화면
+
+### 홈 화면
+
+
+## 📚 발표 자료(PPT)
+
+- [구글 드라이브]()
